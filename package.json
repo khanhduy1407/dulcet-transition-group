@@ -1,6 +1,6 @@
 {
   "name": "dulcet-transition-group",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A dulcet component toolset for managing animations",
   "main": "lib/index.js",
   "scripts": {
@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/khanhduy1407/dulcet-transition-group#readme",
   "peerDependencies": {
-    "dulcet": "^15.6.6",
-    "dulcet-dom": "^15.6.6"
+    "dulcet": "^15.6.7",
+    "dulcet-dom": "^15.6.7"
   },
   "dependencies": {
     "@dulcetjs/prop-types": "^15.5.6",
@@ -51,8 +51,8 @@
     "babel-plugin-transform-dulcet-remove-prop-types": "^0.4.5",
     "babel-preset-latest": "^6.24.0",
     "babel-preset-dulcet": "^6.24.5",
-    "dulcet": "^15.6.6",
-    "dulcet-dom": "^15.6.6",
+    "dulcet": "^15.6.7",
+    "dulcet-dom": "^15.6.7",
     "eslint": "^3.17.1",
     "eslint-config-airbnb": "^14.1.0",
     "eslint-plugin-import": "^2.2.0",
